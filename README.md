@@ -3,7 +3,7 @@
 ### input :
 
 ```dart
-import 'package:dart_snippet_view/dart_snippet_view.dart';
+import 'package:dart_code_formatter/dart_code_formatter.dart';
 import 'package:flutter/material.dart';
 
 class CodeViewer extends StatefulWidget {
